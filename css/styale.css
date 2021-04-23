@@ -70,6 +70,7 @@ body{
 	padding: 20px 0px 0px 45px;
 }
 .contacts2{
+	float:left;
 	width:510px
 	margin-top:6px;
 	font-size: 16px;
