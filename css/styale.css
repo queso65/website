@@ -34,13 +34,14 @@ body{
 	    color:#fff;
         background-color:#394fce;}
 .picture{
-	padding:25px;
+	margin:auto;
 	border-radius: 11px;
 	float:left;
 	width: 270px;
 	margin-top:15px;
 }
 .text{
+	margin:auto;
 	margin-left:300px;
 	line-height:2;
 	font-weight:300;
@@ -131,6 +132,4 @@ td{
 	margin:auto;
 	margin-top:50px;
 }
-.ct{
-   margin:auto;
-}
+
