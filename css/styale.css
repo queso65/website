@@ -54,6 +54,7 @@ body{
 	color:#6854d2;
 }
 .background{
+	margin:auto;
 	border-radius: 6px;
 	font-family: Arial;
 	font-style: italic;
