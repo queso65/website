@@ -70,13 +70,13 @@ body{
 	padding: 20px 0px 0px 45px;
 }
 .contacts2{
-	float:left;
 	width:510px
 	margin-top:6px;
 	font-size: 16px;
 	line-height:1.6;
 }
 .copyright{
+	float:left;
 	font-size: 17.3px;
 	padding: 18.5px 0 0px 0px;
 	margin-left:470px;
