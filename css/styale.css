@@ -64,8 +64,7 @@ body{
 }
 
 .contacts{
-	width:350px
-	float:left;
+	width:350px;
 	font-size: 20px;
 	padding: 20px 0px 0px 45px;
 }
@@ -75,6 +74,7 @@ body{
 	line-height:1.6;
 }
 .copyright{
+	float:left;
 	width:500px
 	font-size: 17.3px;
 	padding: 0px 30px 0px 0px;
