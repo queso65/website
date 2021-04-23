@@ -64,6 +64,7 @@ body{
 }
 
 .contacts{
+	width:510px
 	float:left;
 	font-size: 20px;
 	padding: 20px 0px 0px 45px;
