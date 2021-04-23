@@ -41,12 +41,12 @@ body{
 	margin-top:15px;
 }
 .text{
+	margin:auto;
 	line-height:2;
 	font-weight:300;
 	margin-top:47px;
 	border-radius: 9px;
 	padding:25px;
-	margin-left:480px;
 	width:310px;
 	font-size:20px;
 	text-align:justify;
