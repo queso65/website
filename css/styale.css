@@ -34,6 +34,7 @@ body{
 	    color:#fff;
         background-color:#394fce;}
 .picture{
+	margin-left:10%;
 	border-radius: 11px;
 	float:left;
 	width: 270px;
